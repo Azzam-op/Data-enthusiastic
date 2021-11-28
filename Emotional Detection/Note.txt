@@ -1,0 +1,6 @@
+Hello Guys,
+-> For Dataset Download it from Kaggle or anyother websites.
+-> I have very large dataset, so i can't upload the whole thing.
+-> I've Trained this model with some Emotions like Happy, Sad, Angry, Neutral and Surprise.
+-> If you need to train different emotions like Fear or disgust, you can download that dataset from kaggle and train
+   the model with relevant data.
